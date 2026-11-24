@@ -4,7 +4,7 @@ Welcome to NIHA.IN ❤️💙 Your trusted social media marketing platform! Get 
 
 MASTER PROMPT – BUILD COMPLETE NIHA.IN SMM WEBSITE
 
-Build a complete, professional, modern and fully functional Social Media Marketing (SMM) website named NIHA.IN, inspired by the overall layout, structure, navigation and user experience of https://golusmm.com/.
+Build a complete, professional, modern and fully functional Social Media Marketing (SMM) website named NIHA.IN, inspired by the overall layout, structure, navigation and user experience of___________________________
 
 IMPORTANT: Use the reference website only as design inspiration. Create original source code, original branding and original content. Do not copy proprietary source code, logos or private assets.
 
