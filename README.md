@@ -190,3 +190,44 @@ The final result should look professional, premium, trustworthy and easy to use.
 WEBSITE BRAND: NIHA.IN
 
 TAGLINE: YOUR DIGITAL GROWTH STARTS HERE.
+
+
+
+
+
+Update the existing NIHA.IN website login and registration system.
+
+IMPORTANT: Do not change the existing website design, layout, colors, branding or other features.
+
+Add a professional Google Sign-In and Google Sign-Up option to the existing authentication page.
+
+REQUIREMENTS:
+
+1. Add a "Continue with Google" button on the Login page.
+2. Add a "Sign up with Google" button on the Registration page.
+3. Display the official Google G logo on both buttons.
+4. Allow users to create an account using their Google account.
+5. Allow existing users to log in using their registered Google account.
+6. Automatically retrieve the user's name, email address and profile picture with permission.
+7. Create a user profile in the NIHA.IN database after successful registration.
+8. Prevent duplicate accounts using email verification and account linking.
+9. Add a secure logout option.
+10. Maintain secure authentication sessions.
+11. Show clear error messages if Google authentication fails.
+
+DESIGN:
+
+- Keep the existing NIHA.IN branding.
+- Maintain Red, Blue and White colors.
+- Use a clean white Google button with the official Google logo.
+- Make the button responsive for Android mobile devices.
+
+IMPORTANT:
+Implement real Google OAuth authentication, not just a decorative button. Configure Google OAuth credentials securely through the authentication provider. Never expose client secrets in frontend code.
+
+Do not remove the existing email and password login option.
+
+Keep all other website features unchanged.
+
+
+NIHA.IN
