@@ -231,3 +231,39 @@ Keep all other website features unchanged.
 
 
 NIHA.IN
+    <profile>
+      <id>github</id>
+      <repositories>
+        <repository>
+          <id>central</id>
+          <url>https://repo.maven.apache.org/maven2</url>
+        </repository>
+        <repository>
+          <id>github</id>
+          <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+          <snapshots>
+            <enabled>true</enabled>
+          </snapshots>
+        </repository>
+      </repositories>
+    </profile>
+  </profiles>
+
+  <servers>
+    <server>
+      <id>github</id>
+      <username>USERNAME</username>
+      <password>TOKEN</password>
+    </server>
+  </servers>
+</settings>
+"name": "@my-org/server",
+  "version": "1.0.0",
+  "description": "Server app that uses the ORGANIZATION_NAME/PACKAGE_NAME package",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ORGANIZATION_NAME/PACKAGE_NAME": "1.0.0"
+  }
+}
